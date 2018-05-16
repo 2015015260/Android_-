@@ -27,8 +27,16 @@
       同时方便有目标购物者用最优惠的价格买到目标商品。
  实现工具
  
- 
-   -android studio
-   
-   
-   -墨刀
+ 客户端
+   -android studio
+   服务器端
+   - eclipse
+   -Tomcat
+   服务端框架
+    -sping+spingMVC+hibernate
+   数据库
+   -MySQL
+   数据传输框架
+    -Gson
+   页面原型工具
+   -墨刀
